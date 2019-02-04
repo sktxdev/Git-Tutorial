@@ -103,5 +103,12 @@ git push origin master
 ### Push branch to remote
 
 ```
+git checkout master
+git pull
+git checkout feature_branch_name
+git rebase master
+# edit files (add them if needed)
+git add .
+git commit -m "Some message" .
 git push -u origin feature_branch_name
 ```
