@@ -1,5 +1,6 @@
 # Git-Tutorial
-A quick tutorial on git commands
+A quick tutorial on git commands. Needs better organization, but I wrote this for myself as a reminder
+since i switch from git to tfs to whatever, and I need this to remind me what side of the brain to use.
 
 # Starting Fresh
 
